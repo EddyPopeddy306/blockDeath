@@ -1,0 +1,9 @@
+name: BlockDeath
+version: ${project.version}
+main: blockdeath.blockdeath.BlockDeath
+api-version: 1.16
+authors: [ Fabede ]
+description: hi
+commands:
+  blockdeath:
+    description: Have fun while dying.
